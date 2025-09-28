@@ -1,2 +1,2 @@
-# Sletyusz Git-Hubja
-sok mindent is akarok csinálni de nem mindig sikerül :D
+# Info faktos feladatok/házik
+a régi dolgokat is majd fel fogom tölteni ha lesz időm ezekre :D
