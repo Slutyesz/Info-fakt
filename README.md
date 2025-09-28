@@ -1,2 +1,2 @@
-# Info-fakt
-info fakton csinált dolgok és házik
+# Sletyusz Git-Hubja
+sok mindent is akarok csinálni de nem mindig sikerül :D
